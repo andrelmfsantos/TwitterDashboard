@@ -5,12 +5,14 @@ Source: https://datastudio.google.com/reporting/f61c1b56-0e90-4a97-8d30-e3020157
 #---------------------------------------------------------------------
 ## Authors
 
-Supervisor:
-Professor PhD José E. Storopoli¹
+**Supervisor:**
 
-PhD students:
-André L.M.F. Santos²
-Donizete F. Beck³
+*Professor PhD José E. Storopoli¹
+
+**PhD students:**
+
+*André L.M.F. Santos²
+*Donizete F. Beck³
 
 #---------------------------------------------------------------------
 ## Affiliations
