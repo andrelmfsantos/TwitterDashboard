@@ -1,6 +1,7 @@
 # Twitter Dashboard
 This repository contains Twitter dashboard databases and other backups
-Source: https://datastudio.google.com/reporting/f61c1b56-0e90-4a97-8d30-e302015778e3/page/WqWfB
+
+[Dashboard page](https://datastudio.google.com/reporting/f61c1b56-0e90-4a97-8d30-e302015778e3/page/WqWfB)
 
 #---------------------------------------------------------------------
 ## Authors
